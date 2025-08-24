@@ -1,6 +1,6 @@
 spring:
   build:
-    version: "1.0"
+    version: "{cipher}ZKYZOTM"
 
 server:
   port: 8080
