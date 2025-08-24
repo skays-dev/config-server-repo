@@ -1,0 +1,3 @@
+spring:
+  build:
+    version: "2.0"
